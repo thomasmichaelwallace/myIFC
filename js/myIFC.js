@@ -22,7 +22,7 @@ jQuery(document).ready(function($) {
 
     var ifcSurvey;
     // Read in the IFC survey on load.
-    $.getJSON("/games/js/json/ifc.json", function (json) {
+    $.getJSON("/games/myIFC/json/ifc.json", function (json) {
         ifcSurvey = json;
         drawQuestion(json);
     });
@@ -40,7 +40,7 @@ jQuery(document).ready(function($) {
             var index = 0;
             $.each( query.answers, function( key, value ) {
 
-                $("#answers").append( '<li><a id="key_' + index + '" href="#">' + key + '</a></li>' );
+                $("#answers").append( '<li><a id="key_' + index + '" href="#/">' + key + '</a></li>' );
                 $("#key_" + index).click(function() {
                     drawQuestion(value);
                 });
