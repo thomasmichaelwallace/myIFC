@@ -22,7 +22,7 @@ jQuery(document).ready(function($) {
 
     var ifcSurvey;
     // Read in the IFC survey on load.
-    $.getJSON("../json/ifc.json", function (json) {
+    $.getJSON("/games/js/json/ifc.json", function (json) {
         ifcSurvey = json;
         drawQuestion(json);
     });
