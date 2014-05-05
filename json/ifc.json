@@ -1,0 +1,272 @@
+{
+    "question": "What's more important to you?",
+    "answers": {
+        "Form": {
+            "question": "Art is",
+            "answers": {
+                "The drawing itself": {
+                    "question": "A friend is",
+                    "answers": {
+                        "Somebody to help": {
+                            "question": "It's what you're made of that counts.",
+                            "answers": {
+                                "Agree": {
+                                    "ifc": "IfcGeometryResource",
+                                    "description": "Some people might call you a small-picture thinker; but someone's got to care about each and every point, line, surface and volume that make up the structure."
+                                },
+                                "Disagree": {
+                                    "ifc": "IfcMaterialResource",
+                                    "description": "For you it isn't the arrangement of the structure, but of the matter itself; who cares that it's the tallest building in the world? It's the concrete core and glass façade that get's you excited."
+                                }
+                            }
+                        },
+                        "Somebody to admire": {
+                            "question": "Either you've got it,",
+                            "answers": {
+                                "Or you don't.": {
+                                    "ifc": "IfcGeometricModelResource",
+                                    "description": "Shallow; for you it's all about the look of a thing. Like the Mona Lisa, you recall every single vestige of the subject, except what it really is."
+                                },
+                                "Or you can pay to get it.": {
+                                    "ifc": "IfcPresentationApperanceResource",
+                                    "description": "You're that guy who can't tell refers to car's by their colour; it's all about the style with you."
+                                }
+                            }
+                        },
+                        "Somebody to touch": {
+                            "question": "IKEA is",
+                            "answers": {
+                                "A magical world of reasonably priced storage solutions.": {
+                                    "ifc": "IfcArcitectureDomain",
+                                    "description": "Like Kevin McCloud, you believe that paintwork is integral to the structure; and that a building is just a place for you to attach windows and doors."
+                                },
+                                "A hell where new couples go to repent their sins.": {
+                                    "ifc": "IfcProductExtension",
+                                    "description": "Forget the abstract- call a spade a spade; you want something you can touch."
+                                }
+                            }
+                        }
+                    }
+                },
+                "The meaning": {
+                    "question": "You'd rather settle down with a...",
+                    "answers": {
+                        "Good book": {
+                            "ifc": "IfcPresentationDefinitionResource",
+                            "description": "You are the 1000 words that make up a picture; whilst you aren't actually part of the group, you'd still happily explain it all to others."
+                        },
+                        "Lazy film": {
+                            "question": "The best holiday is one where you",
+                            "answers": {
+                                "Wake up at 8 in the morning every day to see every sight": {
+                                    "ifc": "IfcProfileResource",
+                                    "description": "You are Godzilla! Ploughing straight through structures, exposing internal planes and revealing the hidden details."
+                                },
+                                "Meet the locals": {
+                                    "ifc": "IfcRepresentationResource",
+                                    "description": "Maybe not democratically elected; you take up every cause you can find to make sure they are represented."
+                                },
+                                "Wonder the country side": {
+                                    "ifc": "IfcTopologyResource",
+                                    "description": "You are Scotland; there isn't a flat square inch of you; continuous undulations, curvatures and peaks."
+                                }
+                            }
+                        },
+                        "Puzzle": {
+                            "question": "Which of these statements do you most agree with?",
+                            "answers": {
+                                "There is only right and wrong": {
+                                    "ifc": "IfcGeometricConstraintResource",
+                                    "description": "A neat freak by design- everything has to be in exactly the right place for you; every object aligned, every connection perfect. I expect you'd be a horrific mother-in-law."
+                                },
+                                "It depends where you're standing": {
+                                    "ifc": "IfcPresentationOrganizationResource",
+                                    "description": "You light up the lives of others; a source of brightness in an otherwise dark world."
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "Function": {
+            "question": "It's",
+            "answers": {
+                "What you do": {
+                    "question": "In any battle the side that wins is",
+                    "answers": {
+                        "The side with the most numbers": {
+                            "question": "What came first?",
+                            "answers": {
+                                "The Egg": {
+                                    "ifc": "IfcMeasureResource",
+                                    "description": "The ultimate enabler- alone you do nothing, but without you nothing else would have meaning."
+                                },
+                                "The Chicken": {
+                                    "ifc": "IfcQuantityResource",
+                                    "description": "When not engineering, I have no doubt you make a living guessing the number of jelly beans in a jar."
+                                }
+                            }
+                        },
+                        "The side with the best tactics": {
+                            "question": "Your favourite film is:",
+                            "answers": {
+                                "Brazil": {
+                                    "ifc": "IfcConstraintResource",
+                                    "description": "If you're not the rock, you're the hard place. Where other people give solutions, all you give is problems. But let's be fair- without you and your boundaries the whole project would just spiral out of control."
+                                },
+                                "2001: A Space Oddessy": {
+                                    "ifc": "IfcKernel",
+                                    "description": "You are the ultimate original thinker; everything else is just a devivation of your ideas."
+                                },
+                                "Scott Pilgrim": {
+                                    "ifc": "IfcPropertyResource",
+                                    "description": "Quis definit ipsos definition? You do; You've gone beyond self-referential to meta."
+                                },
+                                "Sharknado": {
+                                    "ifc": "IfcStructuralLoadResource",
+                                    "description": "Nothing more than dead weight."
+                                }
+                            }
+                        },
+                        "The side with the best weapons": {
+                            "question": "The best thing at a theme park are",
+                            "answers": {
+                                "Rollercoasters": {
+                                    "question": "Who is the real winner?",
+                                    "answers": {
+                                        "The F1 Driver": {
+                                            "ifc": "IfcSharedBldgElements",
+                                            "description": "For you the whole really is the sum of it's parts- there's no such thing as a structure, just a collection of beams and slabs."
+                                        },
+                                        "The F1 Engineering Team": {
+                                            "ifc": "IfcStructuralElementsDomain",
+                                            "description": "A champion of the under represented, you know that it's the hidden pieces of an organisation that keep it all together."
+                                        }
+                                    }
+                                },
+                                "The ghost house": {
+                                    "question": "What makes a good car great?",
+                                    "answers": {
+                                        "Bumper stickers": {
+                                            "ifc": "IfcSharedComponentsElements",
+                                            "description": "Just how many bangles are you wearing? For you, a structure is just something you can accessorize!"
+                                        },
+                                        "Leather upholstery": {
+                                            "ifc": "IfcSharedFacilitiesElements",
+                                            "description": "Master of feng shue- your aim in life is to record group and arrange the assets within a the structure."
+                                        },
+                                        "Sub-woofer in the boot": {
+                                            "ifc": "IfcBuildingControlsDomain",
+                                            "description": "Like Q from James Bond, your aim in life is to gadetise structures with soo many sensors that Wallace and Gromit would be proud!"
+                                        }
+                                    }
+                                },
+                                "Log flumes": {
+                                    "question": "Your favourite song is...",
+                                    "answers": {
+                                        "Queen – Bohemian Raphasody": {
+                                            "ifc": "IfcSharedBldServiceElements",
+                                            "description": "Like the many adonis' that befould the beachs of California- you just go with the flow."
+                                        },
+                                        "Electric Six - “Danger! High Voltage”": {
+                                            "ifc": "IfcElectricalDomain",
+                                            "description": "I expect you're at the Gym pretty often- because you're all about the power. Oh you might do a little bit of communication on the side, but your true love is the spark."
+                                        },
+                                        "Earth, Wind & Fire – September": {
+                                            "ifc": "IfcHvacDomain",
+                                            "description": "Never too hot, never too cold- you spend the whole of your life making sure that other's are comfortable."
+                                        },
+                                        "Billy Joel – We Didn't Start The Fire": {
+                                            "ifc": "IfcPlumbingFireProtectionDomain",
+                                            "description": "You like the make a splash, but behind your “fun” exteriour is a sensible interiour that you use to keep others safe when you have to."
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                },
+                "The way that you do it": {
+                    "question": "Which book is more important?",
+                    "answers": {
+                        "7 Highly Effective Habbits Of Highly Effective People": {
+                            "question": "Why do the government always get things wrong?",
+                            "answers": {
+                                "They don't have the right people.": {
+                                    "question": "Committees are where",
+                                    "answers": {
+                                        "Like minded people can share and develop ideas.": {
+                                            "ifc": "IfcSharedMgmtElements",
+                                            "description": "The ultimate in Bureaucracy; you are almost all red tape and no information."
+                                        },
+                                        "Good ideas go to die": {
+                                            "ifc": "IfcConstructionMgmtDomain",
+                                            "description": "When people say “somebody really ought to sought this out” they mean you."
+                                        }
+                                    }
+                                },
+                                "They don't use the right processes.": {
+                                    "question": "If a tree falls in a forest, does it make a sound?",
+                                    "answers": {
+                                        "Yes": {
+                                            "ifc": "IfcProcess",
+                                            "description": "Like Barak Obama- You are a force for change."
+                                        },
+                                        "No": {
+                                            "ifc": "IfcApprovalResource",
+                                            "description": "You have daddy issues- approval is everything to you. You've defined yourself on what other people think, not just of you, but of everything else. But that doesn't stop you from being judgemental; not part of a project is free of your scrutiny."
+                                        },
+                                        "Only if I told it to.": {
+                                            "ifc": "IfcControlExtension",
+                                            "description": "You are a control freak- you need to control every single bit of the project."
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        "Catcher in the Rye": {
+                            "question": "You set your alarm...",
+                            "answers": {
+                                "Five minutes before you need to be at work.": {
+                                    "question": "Things would be better if",
+                                    "answers": {
+                                        "If we just got on a did some work": {
+                                            "ifc": "IfcStructuralAnalysisDomain",
+                                            "description": "A number cruncher at heart, you'd rather corrolate the relationship between pigment density and watch-duration than appreicate the art."
+                                        },
+                                        "We asked everyone what they think": {
+                                            "ifc": "IfcExternalReferenceResource",
+                                            "description": "You are, quite literally, outside of the box. Forever reaching beyond the project to find new sources of information."
+                                        },
+                                        "In the good old days": {
+                                            "ifc": "IfcUtilityResource",
+                                            "description": "You are living in the past; obsessed with the history of the structure."
+                                        },
+                                        "If people would just do what I say": {
+                                            "ifc": "IfcActorResource",
+                                            "description": "You're self-obsessed, there's no getting around it. All you ever want to do is tell people about yourself, the company you work for and your relationships to others."
+                                        }
+                                    }
+                                },
+                                "Five minutes before you need to get up.": {
+                                    "question": "What's the phrase again?",
+                                    "answers": {
+                                        "Time is Money": {
+                                            "ifc": "IfcCostResource",
+                                            "description": "You know the cost of everything and the value of nothing. You'd sit in front of a design for the most beautiful structure on earth, capable of uniting man-kind, and ask “yes, but could we do it for half the price”?"
+                                        },
+                                        "Money Is Time": {
+                                            "ifc": "IfcDateTimeResource",
+                                            "description": "You live in the forth dimension; having taken punctuality to a new level- you count the seconds and know the date of completion before the first concrete pour has even started."
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
