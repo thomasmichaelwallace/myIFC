@@ -30,17 +30,16 @@ jQuery(document).ready(function($) {
     function drawQuestion(query) {
         // Draws the survey page with event handlers into the survey div.
 
-        $("#survey").empty();
-
         if (query.question !== undefined) {
             // JSON question tree terminates in IFC objects without the key "question".
 
-            $("#survey").append( "<h2>" + query.question + "</h2>");
-            $("#survey").append( '<ul id="answers"></ul> ');
+            $("#survey_question").text(query.question);
+            $("#survey_answers").empty();
+
             var index = 0;
             $.each( query.answers, function( key, value ) {
 
-                $("#answers").append( '<li><a id="key_' + index + '" href="#/">' + key + '</a></li>' );
+                $("#survey_answers").append( '<li><a id="key_' + index + '" href="#/">' + key + '</a></li>' );
                 $("#key_" + index).click(function() {
                     drawQuestion(value);
                 });
@@ -50,13 +49,13 @@ jQuery(document).ready(function($) {
             });
 
         } else {
-            // Survey has terminated, allow people to restart and share.
+            // Survey has terminated, show the results and allow to share!
 
-            $("#survey").append( "<h2>" + query.ifc + "</h2>");
-            $("#survey").append( '<p>' + query.description + '</p> ');
-            $("#survey").append(
-                '<a href="https://twitter.com/home?status=I\'m%20' + query.ifc + '%20Which%20%23IFC%20are%20you?%20http://www.beingbrunel.com/post">Share on Twitter</a>'
-                );
+            $("#survey_page").hide();
+            $("#survey_result").show();
+
+            $("#survey_ifc").text(query.ifc);
+            $("#survey_description").text(query.description);
 
         }
 
