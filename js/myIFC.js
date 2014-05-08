@@ -57,7 +57,7 @@ jQuery(document).ready(function($) {
             $("#survey_ifc").text(query.ifc);
             $("#survey_description").text(query.description);
 
-            var twitlink = "http://twitter.com/home?status=I'm%20an%20" + query.ifc + "IfcResourcesResourceConstraint!%20Find%20out%20your%20%23IFC%20on%20%40beingbrunel%20http://www.beingbrunel.com/ifc/"
+            var twitlink = "http://twitter.com/home?status=I'm%20an%20" + query.ifc + "!%20Find%20out%20your%20%23IFC%20on%20%40beingbrunel%20http://www.beingbrunel.com/ifc/"
             $("#survey_share").prop("href", twitlink);
 
         }
