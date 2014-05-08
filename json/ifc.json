@@ -1,35 +1,35 @@
 {
-    "question": "How would you choose a new watch?",
+    "question": "When the BIM revolution comes, what will you fight for?",
     "answers": {
-        "The face": {
-            "question": "When getting results: It's",
+        "Truth and Beauty!": {
+            "question": "When getting results: It's...",
             "answers": {
                 "What you do": {
-                    "question": "In any battle the side that wins is",
+                    "question": "The main reason to attend an Expo is...",
                     "answers": {
-                        "The side with the most numbers": {
+                        "To collect enough business cards to build a house with": {
                             "question": "What came first?",
                             "answers": {
+                                "The Chicken": {
+                                    "ifc": "IfcQuantityResource",
+                                    "description": "Moving from experience to experience; forget about the quality, you are all about quantity!"
+                                },
                                 "The Egg": {
                                     "ifc": "IfcMeasureResource",
                                     "description": "The ultimate enabler- alone you do nothing, but without you nothing else would have meaning."
-                                },
-                                "The Chicken": {
-                                    "ifc": "IfcQuantityResource",
-                                    "description": "When not engineering, I have no doubt you make a living guessing the number of jelly beans in a jar."
                                 }
                             }
                         },
-                        "The side with the best tactics": {
+                        "The chance to convince everyone you really are an industry leader": {
                             "question": "Your favourite film is:",
                             "answers": {
-                                "Brazil": {
+                                "Brazil (Only the first bit, though.)": {
                                     "ifc": "IfcConstraintResource",
-                                    "description": "If you're not the rock, you're the hard place. Where other people give solutions, all you give is problems. But let's be fair- without you and your boundaries the whole project would just spiral out of control."
+                                    "description": "If you're not the rock, you're the hard place. Where other people give solutions, all you give is problems. But then, everyone needs boundaries."
                                 },
-                                "2001: A Space Oddessy": {
+                                "2001: A Space Odyssey": {
                                     "ifc": "IfcKernel",
-                                    "description": "You are the ultimate original thinker; everything else is just a devivation of your ideas."
+                                    "description": "You are the ultimate original thinker; everything else is just a derivation of your ideas."
                                 },
                                 "Scott Pilgrim": {
                                     "ifc": "IfcPropertyResource",
@@ -37,61 +37,61 @@
                                 },
                                 "Sharknado": {
                                     "ifc": "IfcStructuralLoadResource",
-                                    "description": "Nothing more than dead weight."
+                                    "description": "Let's face it, you're nothing more than dead weight."
                                 }
                             }
                         },
-                        "The side with the best weapons": {
-                            "question": "//",
+                        "Those little furry things with eyes and a ribbon tail that every stand inexplicitly has": {
+                            "question": "The ultimate Florida destination is...",
                             "answers": {
-                                "Rollercoasters": {
-                                    "question": "Who is the real winner?",
+                                "Universal Studios": {
+                                    "question": "Your garage is filled with...",
                                     "answers": {
-                                        "The F1 Driver": {
+                                        "LEGO - (All of which is Awesome)": {
                                             "ifc": "IfcSharedBldgElements",
-                                            "description": "For you the whole really is the sum of it's parts- there's no such thing as a structure, just a collection of beams and slabs."
+                                            "description": "For you, the whole really is just the sum of its parts- there's no such thing as a team, just a collection of people."
                                         },
-                                        "The F1 Engineering Team": {
+                                        "Meccano - If you don't need a screwdriver, it's not a real achievement": {
                                             "ifc": "IfcStructuralElementsDomain",
-                                            "description": "A champion of the under represented, you know that it's the hidden pieces of an organisation that keep it all together."
+                                            "description": "A champion of the underrepresented, you know that it's the hidden pieces of an organisation that keep everything together."
                                         }
                                     }
                                 },
-                                "The ghost house": {
+                                "Disney World": {
                                     "question": "What makes a good car great?",
                                     "answers": {
                                         "Bumper stickers": {
                                             "ifc": "IfcSharedComponentsElements",
-                                            "description": "Just how many bangles are you wearing anyway? For you, a structure is just something you can accessorize!"
+                                            "description": "Just how many bangles are you wearing anyway? For you, the world is just something you to accessorize!"
                                         },
                                         "Leather upholstery": {
                                             "ifc": "IfcSharedFacilitiesElements",
-                                            "description": "Master of feng shue- the way you arrange and group aspects gives new meaning to the world around you."
+                                            "description": "Master of Feng Shui- the way you arrange and group things gives new meaning to the world around you."
                                         },
                                         "The sub-woofer in the boot": {
                                             "ifc": "IfcBuildingControlsDomain",
-                                            "description": "Like Q from James Bond, your aim in life is to gadetise the world until your house looks like it was built for Wallace and Grommit."
+                                            "description": "Like Q from James Bond, your aim in life is to gadgetize the world until your house looks like it was built for Wallace and Gromit."
                                         }
                                     }
                                 },
-                                "Log flumes": {
-                                    "question": "Your favourite song is...",
+                                "Sea World": {
+                                    "question": "Your Risky Business house-work dance tune is:",
                                     "answers": {
-                                        "Queen – Bohemian Raphasody": {
+                                        "Jack Johnson - Sitting, Waiting, Wishing": {
                                             "ifc": "IfcSharedBldServiceElements",
-                                            "description": "Like the many adonis' that lounge about the beaches of California- you're content just go with the flow."
+                                            "description": "Like the many Adonis' that lounge about the beaches of California- you're content just go with the flow."
                                         },
                                         "Bonnie Tyler - Holding Out For A Hero": {
                                             "ifc": "IfcElectricalDomain",
-                                            "description": "For you, life is about power, no doubt you spend your days power-walking in your power-suit, before comming home, striking a power-pose and bellowing a power-ballad."
+                                            "description": "For you, life is about power, no doubt you spend your days power-walking in your power-suit, before coming home, striking a power-pose and bellowing a power-ballad."
                                         },
                                         "Earth, Wind & Fire – September": {
                                             "ifc": "IfcHvacDomain",
-                                            "description": "Never too hot, never too cold- you spend the whole of your life making sure that other's are comfortable."
+                                            "description": "Never too hot, never too cold- you spend the whole of your life making sure that others are comfortable."
                                         },
                                         "Billy Joel – We Didn't Start The Fire": {
                                             "ifc": "IfcPlumbingFireProtectionDomain",
-                                            "description": "You like the make a splash, but behind your 'fun' exteriour is a cool, calculating, mind."
+                                            "description": "You like to make a splash, but behind your 'fun' exterior is a cool, calculating, mind."
                                         }
                                     }
                                 }
@@ -102,23 +102,23 @@
                 "The way that you do it": {
                     "question": "Which book is most important to society?",
                     "answers": {
-                        "7 Highly Effective Habbits Of Highly Effective People": {
+                        "The 7 Highly Effective Habits Of Highly Effective People": {
                             "question": "Why do the government always get things wrong?",
                             "answers": {
                                 "They don't have the right people.": {
                                     "question": "Committees are where...",
                                     "answers": {
-                                        "Like minded people can synergise the future.": {
+                                        "Like minded people can synergise the future": {
                                             "ifc": "IfcSharedMgmtElements",
-                                            "description": "An inspiration to the Vorgons- you are the pinacle of Bureaucracy; all red tape with no information."
+                                            "description": "An inspiration to the Vorgons- you are the pinnacle of Bureaucracy; all red tape with no information."
                                         },
                                         "Good ideas go to die.": {
                                             "ifc": "IfcConstructionMgmtDomain",
-                                            "description": "Let's face it, when people say 'somebody really ought to sought this out'- that somebody is you."
+                                            "description": "Let's face it, when people say 'somebody really ought to sort this out'- that somebody is you."
                                         }
                                     }
                                 },
-                                "They don't use the right processes.": {
+                                "They don't use the right processes": {
                                     "question": "If a tree falls in a forest, does it make a sound?",
                                     "answers": {
                                         "Yes": {
@@ -129,7 +129,7 @@
                                             "ifc": "IfcApprovalResource",
                                             "description": "Like every Prom King or Queen- approval is everything to you. You spend your life judging others and defining yourself on how others judge you."
                                         },
-                                        "Only if I told it to.": {
+                                        "Only if I told it to!": {
                                             "ifc": "IfcControlExtension",
                                             "description": "Some might say you're a control freak; but how else will you become successful if you don't micro-manage every aspect of your life?"
                                         }
@@ -140,20 +140,20 @@
                         "Catcher in the Rye": {
                             "question": "To you, the British Museum is...",
                             "answers": {
-                                "A treasure trove of historically significant objects suspectly stolen from their original cultures": {
+                                "A treasure trove of historically significant objects stolen from their original cultures": {
                                     "question": "Things would be better if we...",
                                     "answers": {
                                         "Stopped talking about it and actually did some work": {
                                             "ifc": "IfcStructuralAnalysisDomain",
-                                            "description": "A number cruncher at heart, you'd rather corrolate the relationship between pigment density and watch-duration than appreicate the art."
+                                            "description": "A number cruncher at heart, you'd rather correlate the relationship between pigment density and watch-duration than appreciate the actual art."
                                         },
                                         "Asked everyone else what they think": {
                                             "ifc": "IfcExternalReferenceResource",
-                                            "description": "You are, quite literally, outside of the box. Forever reaching beyond the project to find new sources of information."
+                                            "description": "You are, quite literally, outside of the box- forever reaching beyond the project to find new sources of information."
                                         },
                                         "Went back to the good old days": {
                                             "ifc": "IfcUtilityResource",
-                                            "description": "You are living in the past; obsessed with recording and re-living what was, without giving a thought to what might happen."
+                                            "description": "You are living in the past; obsessed with recording and re-living what was, without giving a thought to what might be."
                                         },
                                         "All did exactly what I say!": {
                                             "ifc": "IfcActorResource",
@@ -166,11 +166,11 @@
                                     "answers": {
                                         "Sure- I don't want to miss it when you hit that high!": {
                                             "ifc": "IfcDateTimeResource",
-                                            "description": "You live for the forth dimension; unwilling to let even a second go past without something to mark it."
+                                            "description": "You live for the fourth dimension; unwilling to let even a second go past without something to mark it."
                                         },
                                         "Nah- Clubs today are too loud and expensive": {
                                             "ifc": "IfcCostResource",
-                                            "description": "Like the best accountant, you know the cost of everything, the value of nothing, and the best country to setup a off-shore tax-avoidance scheme."
+                                            "description": "Like the best accountant, you know the cost of everything, the value of nothing, and the best country to setup an off-shore tax-avoidance scheme."
                                         }
                                     }
                                 }
@@ -180,8 +180,8 @@
                 }
             }
         },
-        "The tick": {
-            "question": "Modern Art is redeamed because...",
+        "Freedom and Justice!": {
+            "question": "Modern Art is redeemed because...",
             "answers": {
                 "If you tilt you head in a certain way it does sort-of look nice": {
                     "question": "After stealing KITT from Knightrider you would...",
@@ -199,29 +199,29 @@
                                 }
                             }
                         },
-                        "Keep it in pristine condition in your garage, and periodically wax it innapproriately": {
+                        "Keep it in pristine condition in your garage, and periodically wax it inappropriately": {
                             "question": "Either you've got it...",
                             "answers": {
-                                "Or you don't.": {
+                                "Or you don't": {
                                     "ifc": "IfcGeometricModelResource",
                                     "description": "For you it's all about the look of a thing. Like the Mona Lisa, you recall every single vestige of the subject, except what it really is."
                                 },
-                                "Or you can pay someone to give it to you.": {
+                                "Or you can pay someone to give it to you": {
                                     "ifc": "IfcPresentationApperanceResource",
-                                    "description": "The ultimate trendsetter- It's not whether you win or loose, but how you looked while you were doing it."
+                                    "description": "The ultimate trendsetter- It's not whether you win or lose, but how you looked while you were doing it."
                                 }
                             }
                         },
                         "Drive it around town with the windows open and the music blaring": {
                             "question": "IKEA is",
                             "answers": {
-                                "A magical world of reasonably priced storage solutions.": {
+                                "A magical world of reasonably priced storage solutions": {
                                     "ifc": "IfcArcitectureDomain",
                                     "description": "Like Kevin McCloud, you believe that paintwork is structural; and a building is just a place to mount beautiful doors and windows."
                                 },
-                                "A circle of hell where new home-owners go to repent their sins.": {
+                                "A circle of hell where new home-owners go to repent their sins": {
                                     "ifc": "IfcProductExtension",
-                                    "description": "You call a spade a spade and have nout to do with all that 'la-de-da' abstractionalism- if you can't touch it, it ain't worth worrying about."
+                                    "description": "You call a spade a spade and have nought to do with all that 'la-de-da' abstractionism - if you can't touch it, it ain't worth worrying about."
                                 }
                             }
                         }
@@ -230,16 +230,16 @@
                 "It requires artists to come up with ludicrous excuses for what they have done": {
                     "question": "What's your favourite television show?",
                     "answers": {
-                        "That one where they patrionise people who want to move to the country...": {
+                        "That one where they patronise people who want to move to the country...": {
                             "question": "The best holiday is one where you...",
                             "answers": {
-                                "Drag everyone up at five in morning to fit in every damn sight.": {
+                                "Drag everyone up at five in morning to fit in every damn sight": {
                                     "ifc": "IfcProfileResource",
-                                    "description": "You are Godzilla! Ploughing straight through structures, exposing internal planes and revealing the hidden details."
+                                    "description": "You are Godzilla! Ploughing straight through structures, exposing internal planes and revealing their hidden details."
                                 },
-                                "Wyle away the time in small cafes and bars using your inexerable charm on the locals.": {
+                                "While away the time in small cafes and bars using your inexorable charm on the locals.": {
                                     "ifc": "IfcRepresentationResource",
-                                    "description": "Politics (or revloution) beckons- you seek out and become the the voice of the unrepresented masses."
+                                    "description": "Politics (or revolution) beckons- you seek out and become the voice of the unrepresented masses."
                                 },
                                 "Climb every mountain (and ford every stream)": {
                                     "ifc": "IfcTopologyResource",
@@ -254,7 +254,7 @@
                                     "ifc": "IfcGeometricConstraintResource",
                                     "description": "You're the sort of person who uses a square-rule to tidy their desk; every executive toy aligned, every folder seated perfectly in the neatest of rows."
                                 },
-                                "Yes! But they'll still get my money when I buy the box set.": {
+                                "Yes! But they'll still get my money when I buy the box set": {
                                     "ifc": "IfcPresentationOrganizationResource",
                                     "description": "Like a Vienetta, you split the world into layers and light-up the lives of others."
                                 }
